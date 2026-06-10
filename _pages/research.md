@@ -10,7 +10,7 @@ People often act without fully knowing how their choices impact others. Do peopl
 self-serving ways: selfish individuals downplay the harm of their choices
 while generous individuals exaggerate their beneficence and sacrifice. Critically, these distortions are differentially contagious, as distortions that make selfish actions appear less damaging spread more readily and make others behave more selfishly themselves. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms.
 
-**Affect and learning in social decision making**
+**Affect and reinforcement learning in social decision making**
 
 How do expected and experienced feelings relate to our choices? Research on affective forecasting shows that people often fail to predict exactly how something will make them feel (e.g., winning the lottery feeling worse than expected). In parallel, research on reinforcement learning centers on learning from deviations from expectations, but typically regarding objective outcomes rather than feelings (e.g., winning more money than expected). This line of research bridges these literatures and links deviations
 from expected feelings to learning and (social) decision making (e.g., whether to aggress). In doing so, it also elucidates the extent to which feelings track subjective value more broadly.
@@ -18,7 +18,7 @@ Based on the insight that experienced affect is particularly information-rich, o
 
 **Episodic simulation and empathy**
 
-We tend to empathize more with loved ones than with strangers. Is that because we represent their situation the same but care differently, or do we already represent their situation differently to begin with? When we read or hear about others' misfortunes rather than witnessing them, we draw from our past experiences (i.e., episodes) to imagine the specific scene (i.e., "episodic simulation"). Consequently, such imagination can vary in the kind and extent of past experiences that make up the mental scene. This line of research uses behavioral experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on our relationship to them. A key finding is that others' surroundings may spontaneously come to mind in less detail when we imagine the misfortunes of disliked others.
+We tend to empathize more with loved ones than with strangers. Is that because we imagine their situation the same but care differently, or do we already imagine their situation differently to begin with? When we read or hear about others' misfortunes rather than witnessing them, we draw from our past experiences (i.e., episodes) to imagine the specific scene (i.e., "episodic simulation"). Consequently, such imagination can vary in the kind and extent of past experiences that make up the mental scene. This line of research uses behavioral experiments and neuroimaging to examine how we imagine others' misfortunes differently depending on our relationship to them. A key finding is that others' surroundings may spontaneously come to mind in less detail when we imagine the misfortunes of disliked others.
 
 
 ---
