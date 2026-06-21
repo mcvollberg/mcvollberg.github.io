@@ -23,6 +23,8 @@ description: >-
   these tendencies have predictable limits.
 minimal_mistakes_skin: default
 search: true
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
