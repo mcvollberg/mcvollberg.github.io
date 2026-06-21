@@ -2,6 +2,9 @@
 title: "Research"
 permalink: /research/
 layout: single
+redirect_from:
+  - /github.io/research/
+  - /github.io/research
 ---
 
 **Impact distortions and social contagion**
