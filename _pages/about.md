@@ -3,11 +3,6 @@ permalink: /
 title: "About"
 layout: single
 author_profile: true
-redirect_from:
-  - /about/
-  - /about
-  - /github.io/
-  - /github.io
 ---
 
 I study the thoughts and feelings behind how people treat one another — why we cooperate, help, and empathize, and why those tendencies have predictable limits. I lead an independent research group at the Zurich Center for Neuroeconomics (University of Zurich), supported by an SNSF Ambizione grant, in collaboration with the Swiss Center for Affective Sciences (University of Geneva). I completed my PhD in Cognition, Brain, & Behavior at Harvard University (with Mina Cikara, Daniel Schacter, and Elizabeth Phelps), followed by an SNSF postdoctoral fellowship. 
