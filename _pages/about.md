@@ -3,9 +3,6 @@ permalink: /
 title: "About"
 layout: single
 author_profile: true
-redirect_from:
-  - /github.io/
-  - /github.io
 ---
 
 I am a cognitive scientist studying social decision making. I lead an independent research group at the Zurich Center for Neuroeconomics (University of Zurich), supported by an SNSF Ambizione grant, in collaboration with the Swiss Center for Affective Sciences (University of Geneva). I completed my PhD in Cognition, Brain, & Behavior at Harvard University (with Mina Cikara, Daniel Schacter, and Elizabeth Phelps), followed by a SNSF postdoctoral fellowship. 
