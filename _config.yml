@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Marius C. Vollberg
+url: "https://mcvollberg.github.io"
 email: mariusvollberg@gmail.com
 description: >-
   My research investigates the thoughts and feelings underlying human social
@@ -55,7 +56,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-redirect-from
+  
 author:
   name   : "Marius C. Vollberg"
   avatar : "/assets/images/bio-photo.jpg"
@@ -69,7 +71,7 @@ author:
       url: "https://scholar.google.de/citations?user=DFQsrOgAAAAJ&hl=en"
 
 
-ooter:
+footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
