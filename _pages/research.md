@@ -27,7 +27,7 @@ We tend to empathize more with loved ones than with strangers. Is that because w
 
 Dashti, D., Hare, T.A., & **Vollberg, M.C.**  (submitted). [People form and use inferences based purely on others’ simple affective responses to outcomes.](https://osf.io/preprints/psyarxiv/n23z9_v2) (trainee first author)
 
-Dashti, D., & **Vollberg, M.C.**  (under revision). Group membership tunes how others’ affect informs observers’ valuation of unseen
+Dashti, D., & **Vollberg, M.C.**  (revise and resubmit). Group membership tunes how others’ affect informs observers’ valuation of unseen
 outcomes. (trainee first author)
 
 **Vollberg, M.C.**, & Gross, J. (accepted). [Selfish and prosocial individuals both distort
