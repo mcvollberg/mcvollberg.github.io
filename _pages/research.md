@@ -30,7 +30,7 @@ Dashti, D., Hare, T.A., & **Vollberg, M.C.**  (under review). [People form and u
 Dashti, D., & **Vollberg, M.C.**  (revise and resubmit). Group membership tunes how others’ affect informs observers’ valuation of unseen
 outcomes. (trainee first author)
 
-**Vollberg, M.C.**, & Gross, J. (accepted). [Selfish and prosocial individuals both distort
+**Vollberg, M.C.**, & Gross, J. (in press). [Selfish and prosocial individuals both distort
 their actions' impact, but selfish distortions can be more contagious.](https://osf.io/preprints/psyarxiv/vfx7g_v1) *Nature Human Behaviour.*
 
 
