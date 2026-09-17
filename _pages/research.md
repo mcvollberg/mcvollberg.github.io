@@ -40,7 +40,7 @@ their actions' impact, but selfish distortions can be more contagious.](https://
 **Vollberg, M.C.**, Stussi, Y., Pool, E.R., & Sander, D. (2025). [Emotion and prediction errors: Which ingredients matter?](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00281-5) *Trends in Cognitive Sciences, 29*(12), 1075-1076.
 
 **Vollberg, M.C.**, Sander, D., & Hare, T.A. (2025). [Trial-by-trial learning signatures
-in self-reported affect that require introspection and are orthogonal to social choice.](https://psycnet.apa.org/record/2027-00111-001) *Emotion.* Advance online publication.
+in self-reported affect that require introspection and are orthogonal to social choice.](https://psycnet.apa.org/record/2027-00111-001) *Emotion.*
 
 **Vollberg, M.C.**, & Cikara, M. (2025). [Post-outcome valence, not emotion prediction errors, as a primary predictor of behavior.](https://online.ucpress.edu/collabra/article/11/1/147528/214422/Post-Outcome-Valence-Not-Emotion-Prediction-Errors) *Collabra: Psychology, 11*(1), 147528.
 
