@@ -31,7 +31,7 @@ Dashti, D., & **Vollberg, M.C.**  (revise and resubmit). Group membership tunes 
 outcomes. (trainee first author)
 
 **Vollberg, M.C.**, & Gross, J. (2026). [Selfish and prosocial individuals both distort
-their actions' impact, but selfish distortions can be more contagious.](https://osf.io/preprints/psyarxiv/vfx7g_v1) *Nature Human Behaviour.*
+their actions' impact, but selfish distortions can be more contagious.](https://www.nature.com/articles/s41562-026-02585-3) *Nature Human Behaviour.*
 
 
 **Vollberg, M.C.**, O'Connor, B.B., Vuilleumier, P., Sander, D., & Cikara, M. (2026).
