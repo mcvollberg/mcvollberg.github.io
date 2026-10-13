@@ -32,6 +32,7 @@ outcomes. (trainee first author)
 
 **Vollberg, M.C.**, & Gross, J. (2026). [Selfish and prosocial individuals both distort
 their actions' impact, but selfish distortions can be more contagious.](https://www.nature.com/articles/s41562-026-02585-3) *Nature Human Behaviour.*
+Featured in a [Research Briefing by Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02584-4).
 
 
 **Vollberg, M.C.**, O'Connor, B.B., Vuilleumier, P., Sander, D., & Cikara, M. (2026).
