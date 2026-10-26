@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Marius C. Vollberg"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I study the cognitive and affective foundations of social decision making."
+  bio    : "Cognitive and affective foundations of social decision making."
   links:
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
