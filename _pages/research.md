@@ -10,11 +10,11 @@ People often act without fully knowing how their choices impact others. Do peopl
 self-serving ways: selfish individuals downplay the harm of their choices
 while generous individuals exaggerate their beneficence and sacrifice. Critically, these distortions are differentially contagious, as distortions that make selfish actions appear less damaging spread more readily and make others behave more selfishly themselves. This asymmetric social contagion has concrete implications for collective action, from climate inaction to erosion of welfare norms.
 
-**Affect and reinforcement learning in social decision making**
+**Affect, learning, and decision making**
 
-How do expected and experienced feelings relate to our choices? Research on affective forecasting shows that people often fail to predict exactly how something will make them feel (e.g., winning the lottery feeling worse than expected). In parallel, research on reinforcement learning centers on learning from deviations from expectations, but typically regarding objective outcomes rather than feelings (e.g., winning more money than expected). This line of research bridges these literatures and links deviations
-from expected feelings to learning and (social) decision making (e.g., whether to aggress). In doing so, it also elucidates the extent to which feelings generally track subjective value.
-Based on the insight that experienced affect is particularly information-rich, ongoing research investigates how we learn about and from others based on the feelings they display. A further project probes how large language models map feelings to outcomes, revealing divergences from the mapping observed in humans, which matters for the use of such models as decision tools.
+How do expected and experienced feelings relate to our choices? Research on affective forecasting shows that people often fail to predict exactly how something will make them feel (e.g., winning the lottery feeling worse than expected). In parallel, research on reinforcement learning centers on learning from deviations from expectations, but typically regarding objective outcomes rather than feelings (e.g., winning more money than expected). This line of research bridges these literatures and links deviations from expected feelings to learning and (social) decision making (e.g., whether to aggress). In doing so, it also elucidates the extent to which feelings generally track subjective value.
+
+Ongoing work asks the same question beyond one’s own feelings. Because experienced affect is particularly information-rich, we investigate how people learn about and from others based on the feelings they display. We also probe how large language models rate the way monetary outcomes would feel. Unlike people, they rate gains more intensely than equal losses, which matters for the use of such models as decision tools.
 
 **Episodic simulation and empathy**
 
